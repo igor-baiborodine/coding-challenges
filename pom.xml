@@ -8,5 +8,22 @@
   <artifactId>java-coding-skills</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.source.version>1.8</project.source.version>
+    <project.target.version>1.8</project.target.version>
+  </properties>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>${project.source.version}</source>
+          <target>${project.target.version}</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 
 </project>
