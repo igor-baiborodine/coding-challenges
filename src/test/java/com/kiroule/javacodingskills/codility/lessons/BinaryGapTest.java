@@ -13,6 +13,8 @@ public class BinaryGapTest {
   @Test
   public void solution() {
     BinaryGap binaryGap = new BinaryGap();
+    assertThat(binaryGap.solution(5), is(1));
+    assertThat(binaryGap.solution(5728), is(2));
     assertThat(binaryGap.solution(9), is(2));
     assertThat(binaryGap.solution(529), is(4));
     assertThat(binaryGap.solution(20), is(1));
