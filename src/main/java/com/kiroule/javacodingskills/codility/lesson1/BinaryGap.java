@@ -1,4 +1,4 @@
-package com.kiroule.javacodingskills.codility.lessons;
+package com.kiroule.javacodingskills.codility.lesson1;
 
 /**
  * @author Igor Baiborodine
