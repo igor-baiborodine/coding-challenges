@@ -3,7 +3,7 @@ package com.kiroule.javacodingskills.codility.lesson1;
 /**
  * @author Igor Baiborodine
  *
- * Reference: BINARY_GAP.md
+ * @see ../BINARY_GAP_README.md
  */
 public class BinaryGap {
 
