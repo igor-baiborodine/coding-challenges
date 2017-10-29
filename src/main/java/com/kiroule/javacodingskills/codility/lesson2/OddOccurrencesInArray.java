@@ -29,7 +29,7 @@ public class OddOccurrencesInArray {
     Map.Entry<Integer, Integer> firstEntry = entries.iterator().next();
     int unpairedNumber = firstEntry.getKey();
 
-    // special case when initial array contains 3 elements
+    // special case when the input array contains 3 elements
     if (entries.size() == 2
         && firstEntry.getValue() == 2) {
       unpairedNumber = entries.iterator().next().getKey();
