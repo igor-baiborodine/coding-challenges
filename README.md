@@ -4,4 +4,4 @@ This project contains solutions to various Java programming exercises, problems,
 
 #### Codility
 * Lesson 1 - Iterations
-  * BinaryGap: [exercise](/com/kiroule/javacodingskills/codility/lesson1/BINARY_GAP_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lessons/BinaryGap.java)
+  * BinaryGap: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson1/BINARY_GAP_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson1/BinaryGap.java)
