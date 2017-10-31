@@ -1,6 +1,6 @@
-#### CyclicRotation 
+### CyclicRotation 
 
-##### Rotate an array to the right by a given number of steps.
+#### Rotate an array to the right by a given number of steps.
 
 A zero-indexed array A consisting of N integers is given. Rotation of the array means that each element is shifted right by one index, and the last element of the array is also moved to the first place.
 
