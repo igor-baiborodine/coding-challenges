@@ -1,4 +1,4 @@
-### OddOccurrencesInArray 
+### Odd Occurrences In Array 
 
 #### Find value that occurs in odd number of elements.
 

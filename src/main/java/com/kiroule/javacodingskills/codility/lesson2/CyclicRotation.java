@@ -8,7 +8,12 @@ package com.kiroule.javacodingskills.codility.lesson2;
 public class CyclicRotation {
 
   public int[] solution(int[] A, int K) {
-    // TODO: implement me
+
+    if (A.length <=1
+        || A.length == K) {
+      return A;
+    }
+    // TODO: complete implementation
     return new int[] {};
   }
 
