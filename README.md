@@ -10,3 +10,5 @@ This project contains solutions to various Java programming exercises, problems,
   * Cyclic Rotation: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson2/CYCLIC_ROTATION_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson2/CyclicRotation.java)   
 * Lesson 3 - Time Complexity
   * Tape Equilibrium: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/TAPE_EQUILIBRIUM_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/TapeEquilibrium.java)
+  * Frog Jmp: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/FROG_JMP_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/FrogJmp.java)
+    
