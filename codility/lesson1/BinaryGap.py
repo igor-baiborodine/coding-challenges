@@ -1,3 +1,8 @@
+""" See ../BINARY_GAP_README.md
+
+Author: Igor Baiborodine
+"""
+
 def solution(N):
     max_bin_gap = 0
     cur_bin_gap = 0
