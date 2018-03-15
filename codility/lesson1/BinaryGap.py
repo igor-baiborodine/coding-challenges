@@ -1,6 +1,8 @@
-""" See ../BINARY_GAP_README.md
+"""Solution for the Binary Gap exercise.
 
-Author: Igor Baiborodine
+Exercise: BINARY_GAP_README.md
+Author:   Igor Baiborodine
+
 """
 
 def solution(N):
