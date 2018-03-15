@@ -1,6 +1,6 @@
-java-coding-skills
+coding-challenges
 -------------------
-This project contains solutions to various Java programming exercises, problems, algorithms, puzzles etc.
+This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
 #### Codility
 * Lesson 1 - Iterations
