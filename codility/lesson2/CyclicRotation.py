@@ -1,6 +1,8 @@
-""" See ../CYCLIC_ROTATION_README.md
+"""Solution for the Cyclic Rotation exercise.
 
-Author: Igor Baiborodine
+Exercise: CYCLIC_ROTATION_README.md
+Author:   Igor Baiborodine
+
 """
 
 def solution(A, K):
