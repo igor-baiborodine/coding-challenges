@@ -1,5 +1,3 @@
-package com.kiroule.javacodingskills.codility.lesson3;
-
 /**
  * @author Igor Baiborodine
  *
