@@ -7,8 +7,8 @@ A small frog wants to get to the other side of the road. The frog is currently l
 Count the minimal number of jumps that the small frog must perform to reach its target.
 
 Write a function:
-```Java
-class FrogJmp { public int solution(int X, int Y, int D); }
+```Python
+def solution(X, Y, D)
 ```
 that, given three integers X, Y and D, returns the minimal number of jumps from position X to a position equal to or greater than Y.
 
