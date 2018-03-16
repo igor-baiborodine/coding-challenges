@@ -1,5 +1,3 @@
-package com.kiroule.javacodingskills.codility.lesson2;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -25,16 +23,7 @@ public class OddOccurrencesInArray {
         numberToCountMap.remove(A[i]);
       }
     }
-    Set<Map.Entry<Integer, Integer>> entries = numberToCountMap.entrySet();
-    Map.Entry<Integer, Integer> firstEntry = entries.iterator().next();
-    int unpairedNumber = firstEntry.getKey();
-
-    // special case when the input array contains 3 elements
-    if (entries.size() == 2
-        && firstEntry.getValue() == 2) {
-      unpairedNumber = entries.iterator().next().getKey();
-    }
-    return unpairedNumber;
+	return numberToCountMap.keySet().iterator().next();
   }
 
 }
