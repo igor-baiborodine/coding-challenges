@@ -23,7 +23,7 @@ public class OddOccurrencesInArray {
         numberToCountMap.remove(A[i]);
       }
     }
-	return numberToCountMap.keySet().iterator().next();
+    return numberToCountMap.keySet().iterator().next();
   }
 
 }
