@@ -13,10 +13,10 @@ def solution(a):
     number_count = {}
     for number in a:
         count = number_count.get(number, 0)
-	    if count == 0:
-			number_count[number] = 1   
-		elif count == 1:
-			del number_count[number]
+	if count == 0:
+	    number_count[number] = 1   
+	elif count == 1:
+	    del number_count[number]
   
     return next(iter(number_count))
 
