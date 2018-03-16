@@ -5,20 +5,22 @@ Author:   Igor Baiborodine
 
 """
 
-def solution(A, K):
-    if len(A) <= 1 or (K >= len(A) and K % len(A) == 0):
-        return A
-  
-    if K > len(A):
-        K = K % len(A)
-  
-    while (K > 0):
-        last_elem = A[len(A) - 1]
-        A.insert(0, last_elem)
-        del A[len(A) - 1]
-        K -= 1
 
-    return A
+def solution(a, k):
+    if len(a) <= 1 or (k >= len(a) and k % len(a) == 0):
+        return a
+  
+    if k > len(a):
+        k = k % len(a)
+  
+    while k > 0:
+        last_elem = a[len(a) - 1]
+        a.insert(0, last_elem)
+        del a[len(a) - 1]
+        k -= 1
+
+    return a
+
 
 assert solution([], 0) == []
 assert solution([1], 0) == [1]

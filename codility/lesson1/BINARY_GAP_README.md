@@ -9,7 +9,7 @@ For example, number 9 has binary representation 1001 and contains a binary gap o
 Write a function:
 
 ```Python
-def solution(N)
+def solution(n)
 ```
 that, given a positive integer N, returns the length of its longest binary gap. The function should return 0 if N doesn't contain a binary gap.
 
