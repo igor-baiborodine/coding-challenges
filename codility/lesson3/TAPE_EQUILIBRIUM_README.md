@@ -33,8 +33,8 @@ P = 4, difference = |10 − 3| = 7
  
 Write a function:
 
-```Java
-class TapeEquilibrium { public int solution(int[] A); }
+```Python
+def solution(a)
 ```
 that, given a non-empty zero-indexed array A of N integers, returns the minimal difference that can be achieved.
 
