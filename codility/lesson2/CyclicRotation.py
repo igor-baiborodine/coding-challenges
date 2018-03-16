@@ -1,6 +1,6 @@
 """Solution for the Cyclic Rotation exercise.
 
-Exercise: CYCLIC_ROTATION_README.md
+Exercise: ../CYCLIC_ROTATION_README.md
 Author:   Igor Baiborodine
 
 """
