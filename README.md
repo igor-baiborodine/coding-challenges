@@ -6,7 +6,7 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Lesson 1 - Iterations
   * Binary Gap: [exercise](/codility/lesson1/BINARY_GAP_README.md), [Java solution](/codility/lesson1/BinaryGap.java), [Python solution](/codility/lesson1/BinaryGap.py)
 * Lesson 2 - Arrays
-  * Odd Occurrences In Array: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson2/ODD_OCCURRENCES_IN_ARRAY_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson2/OddOccurrencesInArray.java)
+  * Odd Occurrences In Array: [exercise](/codility/lesson2/ODD_OCCURRENCES_IN_ARRAY_README.md), [Java solution](/codility/lesson2/OddOccurrencesInArray.java), [Python solution](/codility/lesson2/OddOccurrencesInArray.py)
   * Cyclic Rotation: [exercise](/codility/lesson2/CYCLIC_ROTATION_README.md), [Java solution](/codility/lesson2/CyclicRotation.java),
   [Python solution](/codility/lesson2/CyclicRotation.py)   
 * Lesson 3 - Time Complexity
