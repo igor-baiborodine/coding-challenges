@@ -10,7 +10,7 @@ import math
 
 def solution(x, y, d):
     jump = y - x
-    if (jump == 0):
+    if jump == 0:
         return 0
     elif jump < d:
         return 1
