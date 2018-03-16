@@ -1,6 +1,6 @@
 """Solution for the Binary Gap exercise.
 
-Exercise: BINARY_GAP_README.md
+Exercise: ../BINARY_GAP_README.md
 Author:   Igor Baiborodine
 
 """
