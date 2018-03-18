@@ -1,7 +1,7 @@
-"""Solution for the Permutation Missing Element exercise.
+"""Solution for the Permutation Missing Element task.
 
-Exercise: ../PERM_MISSING_ELEM_README.md
-Author:   Igor Baiborodine
+Task:   ../PERM_MISSING_ELEM_README.md
+Author: Igor Baiborodine
 
 """
 

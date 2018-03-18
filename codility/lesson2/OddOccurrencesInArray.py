@@ -1,7 +1,7 @@
-"""Solution for the Odd Occurences in Array exercise.
+"""Solution for the Odd Occurences in Array task.
 
-Exercise: ../ODD_OCCURRENCES_IN_ARRAY_README.md
-Author:   Igor Baiborodine
+Task:   ../ODD_OCCURRENCES_IN_ARRAY_README.md
+Author: Igor Baiborodine
 
 """
 

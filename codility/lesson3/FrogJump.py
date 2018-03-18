@@ -1,7 +1,7 @@
-"""Solution for the Cyclic Rotation exercise.
+"""Solution for the Cyclic Rotation task.
 
-Exercise: ../FROG_JUMP_README.md
-Author:   Igor Baiborodine
+Task:   ../FROG_JUMP_README.md
+Author: Igor Baiborodine
 
 """
 

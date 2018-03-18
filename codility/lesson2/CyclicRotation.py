@@ -1,7 +1,7 @@
-"""Solution for the Cyclic Rotation exercise.
+"""Solution for the Cyclic Rotation task.
 
-Exercise: ../CYCLIC_ROTATION_README.md
-Author:   Igor Baiborodine
+Task:   ../CYCLIC_ROTATION_README.md
+Author: Igor Baiborodine
 
 """
 

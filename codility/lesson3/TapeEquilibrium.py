@@ -1,7 +1,7 @@
-"""Solution for the Tape Equilibrium exercise.
+"""Solution for the Tape Equilibrium task.
 
-Exercise: ../TAPE_EQUILIBRIUM_README.md
-Author:   Igor Baiborodine
+Task:   ../TAPE_EQUILIBRIUM_README.md
+Author: Igor Baiborodine
 
 """
 

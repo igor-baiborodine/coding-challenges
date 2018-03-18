@@ -1,7 +1,7 @@
-"""Solution for the Binary Gap exercise.
+"""Solution for the Binary Gap task.
 
-Exercise: ../BINARY_GAP_README.md
-Author:   Igor Baiborodine
+Task:   ../BINARY_GAP_README.md
+Author: Igor Baiborodine
 
 """
 
