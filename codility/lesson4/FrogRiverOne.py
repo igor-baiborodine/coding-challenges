@@ -14,8 +14,9 @@ def solution(x, a):
         #     counts[pos] += 1
         # else:
         #     counts[pos] = 1
-        count = counts.get(pos, 0)
-        counts[pos] = count + 1
+        counted = counts.get(pos, False)
+        if not counted:
+            counts[pos] = True
 
         if len(counts) == x:
             min_sec = sec
