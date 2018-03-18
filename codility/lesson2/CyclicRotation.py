@@ -9,10 +9,10 @@ Author:   Igor Baiborodine
 def solution(a, k):
     if len(a) <= 1 or (k >= len(a) and k % len(a) == 0):
         return a
-  
+
     if k > len(a):
         k = k % len(a)
-  
+
     while k > 0:
         last_elem = a[len(a) - 1]
         a.insert(0, last_elem)

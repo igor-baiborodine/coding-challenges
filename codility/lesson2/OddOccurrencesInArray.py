@@ -9,18 +9,18 @@ Author:   Igor Baiborodine
 def solution(a):
     if len(a) % 2 == 0:
         return 0
-    
+
     number_count = {}
     for number in a:
         count = number_count.get(number, 0)
-	if count == 0:
-	    number_count[number] = 1   
-	elif count == 1:
-	    del number_count[number]
-  
+        if count == 0:
+            number_count[number] = 1
+        elif count == 1:
+            del number_count[number]
+
     return next(iter(number_count))
 
-  
+
 assert solution([]) == 0
 assert solution([1, 1]) == 0
 assert solution([1]) == 1

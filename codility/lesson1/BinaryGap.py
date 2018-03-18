@@ -10,10 +10,10 @@ def solution(n):
     max_bin_gap = 0
     cur_bin_gap = 0
     prev_rmnd = -1
-    
+
     while n != 0:
         cur_rmnd = n % 2
-        
+
         if cur_rmnd == 0:
             if prev_rmnd == 1:
                 cur_bin_gap = 1
@@ -23,10 +23,10 @@ def solution(n):
             if prev_rmnd == 0 and cur_bin_gap > max_bin_gap:
                 max_bin_gap = cur_bin_gap
                 cur_bin_gap = 0
-          
+
         prev_rmnd = cur_rmnd
         n //= 2
-    return max_bin_gap  
+    return max_bin_gap
 
 
 assert solution(5) == 1
