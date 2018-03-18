@@ -10,6 +10,6 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Cyclic Rotation: [exercise](/codility/lesson2/CYCLIC_ROTATION_README.md), [Java solution](/codility/lesson2/CyclicRotation.java),
   [Python solution](/codility/lesson2/CyclicRotation.py)   
 * Lesson 3 - Time Complexity
-  * Tape Equilibrium: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/TAPE_EQUILIBRIUM_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/TapeEquilibrium.java)
-  * Frog Jmp: [exercise](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/FROG_JMP_README.md), [solution](/src/main/java/com/kiroule/javacodingskills/codility/lesson3/FrogJmp.java)
-    
+  * Tape Equilibrium: [exercise](/codility/lesson3/TAPE_EQUILIBRIUM_README.md), [Java solution](/codility/lesson3/TapeEquilibrium.java)
+  * Frog Jmp: [exercise](/codility/lesson3/FROG_JMP_README.md), [Java solution](/codility/lesson3/FrogJmp.java), [Python solution](/codility/lesson3/FrogJmp.py)
+  * Permutation Missing Element: [exercise](/codility/lesson3/PERM_MISSING_ELEM.md), [Python solution](/codility/lesson3/PermMissingElem.py)    
