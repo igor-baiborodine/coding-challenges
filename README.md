@@ -11,5 +11,5 @@ This project contains solutions to various coding exercises, problems, algorithm
   [Python solution](/codility/lesson2/CyclicRotation.py)   
 * Lesson 3 - Time Complexity
   * Tape Equilibrium: [exercise](/codility/lesson3/TAPE_EQUILIBRIUM_README.md), [Java solution](/codility/lesson3/TapeEquilibrium.java)
-  * Frog Jmp: [exercise](/codility/lesson3/FROG_JMP_README.md), [Java solution](/codility/lesson3/FrogJmp.java), [Python solution](/codility/lesson3/FrogJmp.py)
+  * Frog Jmp: [exercise](/codility/lesson3/FROG_JMP_README.md), [Java solution](/codility/lesson3/FrogJmp.java), [Python solution](/codility/lesson3/FrogJump.py)
   * Permutation Missing Element: [exercise](/codility/lesson3/PERM_MISSING_ELEM.md), [Python solution](/codility/lesson3/PermMissingElem.py)    
