@@ -1,4 +1,4 @@
-#### Permutation Missing Element
+### Permutation Missing Element
 
 #### Find the missing element in a given permutation.
 
