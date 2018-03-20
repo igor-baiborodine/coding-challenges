@@ -16,3 +16,5 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Lesson 4 - Counting Elements
   * FrogRiverOne: [task](/codility/lesson4/FROG_RIVER_ONE_README.md), [Python solution](/codility/lesson4/FrogRiverOne.py)
   * MissingInteger: [task](/codility/lesson4/MISSING_INTEGER_README.md), [Python solution](/codility/lesson4/MissingInteger.py)
+  * PermCheck: [task](/codility/lesson4/PERM_CHECK_README.md), [Python solution](/codility/lesson4/PermCheck.py)
+  
