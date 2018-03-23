@@ -1,17 +1,17 @@
 def solution(a, b, k):
-  
-  count = 0
+    count = 0
 
-  if a % k > 0:
-    a = (a // k + 1) * k
-    
-  count += 1
-    
-  if b % k > 0:
-    b -= b % k
-    
-  count += (b - a) // k 
-  return count
+    if a % k > 0:
+        a = (a // k + 1) * k
+
+    count += 1
+
+    if b % k > 0:
+        b -= b % k
+
+    count += (b - a) // k
+    return count
+
 
 assert solution(0, 0, 11) == 1
 assert solution(1, 1, 11) == 0
