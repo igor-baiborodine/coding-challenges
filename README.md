@@ -18,3 +18,6 @@ This project contains solutions to various coding exercises, problems, algorithm
   * MissingInteger: [task](/codility/lesson4/MISSING_INTEGER_README.md), [Python solution](/codility/lesson4/MissingInteger.py)
   * PermCheck: [task](/codility/lesson4/PERM_CHECK_README.md), [Python solution](/codility/lesson4/PermCheck.py)
   * MaxCounters: [task](/codility/lesson4/MAX_COUNTERS_README.md), [Python solution](/codility/lesson4/MaxCounters.py)
+* Lesson 5 - Prefix Sums
+  * CountDiv: [task](/codility/lesson5/COUNT_DIV_README.md), [Python solution](/codility/lesson5/CountDiv.py)
+  * PassingCars: [task](/codility/lesson5/PASSING_CARS_README.md), [Python solution](/codility/lesson5/PassingCars.py)
