@@ -1,3 +1,11 @@
+"""Solution for the CountDiv task.
+
+Task:   ../COUNT_DIV_README.md
+Author: Igor Baiborodine
+
+"""
+
+
 def solution(a, b, k):
     count = 0
 
