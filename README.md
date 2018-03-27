@@ -21,4 +21,4 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Lesson 5 - Prefix Sums
   * CountDiv: [task](/codility/lesson5/COUNT_DIV_README.md), [Python solution](/codility/lesson5/CountDiv.py)
   * PassingCars: [task](/codility/lesson5/PASSING_CARS_README.md), [Python solution](/codility/lesson5/PassingCars.py)
-  * GenomicRangeQuery: [task](/codility/lesson5/GENOMIC_RANGE_QUERY_README.md), [Python solution](/codility/lesson5/GenomicRangeQuery.py)
+  * GenomicRangeQuery: [task](/codility/lesson5/GENOMIC_RANGE_QUERY_README.md), [Python solution](/codility/lesson5/GenomicRangeQuery.py), , [Python solution 2](/codility/lesson5/GenomicRangeQuery2.py)
