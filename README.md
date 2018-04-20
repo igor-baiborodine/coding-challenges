@@ -6,7 +6,8 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Python
   * Compress the String!: [task](/hackerrank/python/compress-the-string-task.pdf), [solution](/hackerrank/python/compress-the-string-solution.py)
   * Iterables and Iterators: [task](/hackerrank/python/iterables-and-iterators-task.pdf), [solution](/hackerrank/python/iterables-and-iterators-solution.py) 
-
+  * Maximize It!: [task](/hackerrank/python/maximize-it-task.pdf), [solution](/hackerrank/python/maximize-it-solution.py) 
+  
 #### Codility
 * Lesson 1 - Iterations
   * BinaryGap: [task](/codility/lesson1/BINARY_GAP_README.md), [Java solution](/codility/lesson1/BinaryGap.java), [Python solution](/codility/lesson1/BinaryGap.py)
