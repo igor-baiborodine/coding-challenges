@@ -7,4 +7,4 @@ word_counts = Counter(words)
 distinct_words = list(OrderedDict.fromkeys(words))
 
 print(len(distinct_words))
-print(*[word_counts[w] for w in distinct_words], sep=' ')
+print(*[word_counts[word] for word in distinct_words], sep=' ')
