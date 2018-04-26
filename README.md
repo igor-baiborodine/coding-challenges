@@ -8,6 +8,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Iterables and Iterators: [task](/hackerrank/python/iterables-and-iterators-task.pdf), [solution](/hackerrank/python/iterables-and-iterators-solution.py) 
   * Maximize It!: [task](/hackerrank/python/maximize-it-task.pdf), [solution](/hackerrank/python/maximize-it-solution.py) 
   * Word Order: [task](/hackerrank/python/word-order-task.pdf), [solution](/hackerrank/python/word-order-solution.py) 
+  * Piling Up!: [task](/hackerrank/python/piling-up-task.pdf), [solution](/hackerrank/python/piling-up-solution.py) 
   
 #### Codility
 * Lesson 1 - Iterations
