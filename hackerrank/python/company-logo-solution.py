@@ -1,6 +1,6 @@
 #!/bin/python3
 
-import sys, operator
+import sys
 from collections import Counter
 
 if __name__ == "__main__":
