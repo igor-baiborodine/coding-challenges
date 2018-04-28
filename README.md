@@ -10,6 +10,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Word Order: [task](/hackerrank/python/word-order-task.pdf), [solution](/hackerrank/python/word-order-solution.py) 
   * Piling Up!: [task](/hackerrank/python/piling-up-task.pdf), [solution](/hackerrank/python/piling-up-solution.py) 
   * Company Logo: [task](/hackerrank/python/company-logo-task.pdf), [solution](/hackerrank/python/company-logo-solution.py) 
+  * Time Delta: [task](/hackerrank/python/time-delta-task.pdf), [solution](/hackerrank/python/time-delta-solution.py) 
   
 #### Codility
 * Lesson 1 - Iterations
