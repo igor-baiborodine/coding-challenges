@@ -11,7 +11,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Piling Up!: [task](/hackerrank/python/piling-up-task.pdf), [solution](/hackerrank/python/piling-up-solution.py) 
   * Company Logo: [task](/hackerrank/python/company-logo-task.pdf), [solution](/hackerrank/python/company-logo-solution.py) 
   * Time Delta: [task](/hackerrank/python/time-delta-task.pdf), [solution](/hackerrank/python/time-delta-solution.py) 
-  * Built-Ins/Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-solution.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
+  * Built-Ins/Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-task.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
     
 #### Codility
 * Lesson 1 - Iterations
