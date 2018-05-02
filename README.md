@@ -6,7 +6,7 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Python
   * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
   * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
-  * Itertools > Maximize It!: [task](/hackerrank/python/maximize-it-task.pdf), [solution](/hackerrank/python/maximize-it-solution.py) 
+  * Itertools > Maximize It!: [task](/hackerrank/python/itertools_maximize-it-task.pdf), [solution](/hackerrank/python/itertools_maximize-it-solution.py) 
   * Collections > Word Order: [task](/hackerrank/python/collections_word-order-task.pdf), [solution](/hackerrank/python/collections_word-order-solution.py) 
   * Collections > Piling Up!: [task](/hackerrank/python/collections_piling-up-task.pdf), [solution](/hackerrank/python/collections_piling-up-solution.py) 
   * Collections > Company Logo: [task](/hackerrank/python/collections_company-logo-task.pdf), [solution](/hackerrank/python/collections_company-logo-solution.py) 
