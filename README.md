@@ -4,14 +4,14 @@ This project contains solutions to various coding exercises, problems, algorithm
 
 #### HackerRank
 * Python
-  * Compress the String!: [task](/hackerrank/python/compress-the-string-task.pdf), [solution](/hackerrank/python/compress-the-string-solution.py)
-  * Iterables and Iterators: [task](/hackerrank/python/iterables-and-iterators-task.pdf), [solution](/hackerrank/python/iterables-and-iterators-solution.py) 
-  * Maximize It!: [task](/hackerrank/python/maximize-it-task.pdf), [solution](/hackerrank/python/maximize-it-solution.py) 
-  * Word Order: [task](/hackerrank/python/word-order-task.pdf), [solution](/hackerrank/python/word-order-solution.py) 
-  * Piling Up!: [task](/hackerrank/python/piling-up-task.pdf), [solution](/hackerrank/python/piling-up-solution.py) 
-  * Company Logo: [task](/hackerrank/python/company-logo-task.pdf), [solution](/hackerrank/python/company-logo-solution.py) 
-  * Time Delta: [task](/hackerrank/python/time-delta-task.pdf), [solution](/hackerrank/python/time-delta-solution.py) 
-  * Built-Ins/Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-task.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
+  * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
+  * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
+  * Itertools > Maximize It!: [task](/hackerrank/python/maximize-it-task.pdf), [solution](/hackerrank/python/maximize-it-solution.py) 
+  * Collections > Word Order: [task](/hackerrank/python/collections_word-order-task.pdf), [solution](/hackerrank/python/collections_word-order-solution.py) 
+  * Collections > Piling Up!: [task](/hackerrank/python/collections_piling-up-task.pdf), [solution](/hackerrank/python/collections_piling-up-solution.py) 
+  * Collections > Company Logo: [task](/hackerrank/python/collections_company-logo-task.pdf), [solution](/hackerrank/python/collections_company-logo-solution.py) 
+  * Date and Time > Time Delta: [task](/hackerrank/python/date-and-time_time-delta-task.pdf), [solution](/hackerrank/python/date-and-time_time-delta-solution.py) 
+  * Built-Ins > Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-task.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
     
 #### Codility
 * Lesson 1 - Iterations
