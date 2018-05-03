@@ -23,7 +23,7 @@ This project contains solutions to various coding exercises, problems, algorithm
 * Lesson 3 - Time Complexity
   * TapeEquilibrium: [task](/codility/lesson3/TAPE_EQUILIBRIUM_README.md), [Java solution](/codility/lesson3/TapeEquilibrium.java), [Python solution](/codility/lesson3/TapeEquilibrium.py)
   * FrogJmp: [task](/codility/lesson3/FROG_JMP_README.md), [Java solution](/codility/lesson3/FrogJmp.java), [Python solution](/codility/lesson3/FrogJump.py)
-  * PermMissingEle: [task](/codility/lesson3/PERM_MISSING_ELEM.md), [Python solution](/codility/lesson3/PermMissingElem.py)    
+  * PermMissingElem: [task](/codility/lesson3/PERM_MISSING_ELEM.md), [Python solution](/codility/lesson3/PermMissingElem.py)    
 * Lesson 4 - Counting Elements
   * FrogRiverOne: [task](/codility/lesson4/FROG_RIVER_ONE_README.md), [Python solution](/codility/lesson4/FrogRiverOne.py)
   * MissingInteger: [task](/codility/lesson4/MISSING_INTEGER_README.md), [Python solution](/codility/lesson4/MissingInteger.py)
