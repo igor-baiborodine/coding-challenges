@@ -13,6 +13,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Date and Time > Time Delta: [task](/hackerrank/python/date-and-time_time-delta-task.pdf), [solution](/hackerrank/python/date-and-time_time-delta-solution.py) 
   * Built-Ins > Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-task.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
   * Built-Ins > Any or All: [task](/hackerrank/python/built-ins_any-or-all-task.pdf), [solution](/hackerrank/python/built-ins_any-or-all-solution.py) 
+  * Built-Ins > ginortS: [task](/hackerrank/python/built-ins_ginorts-task.pdf), [solution](/hackerrank/python/built-ins_ginorts-solution.py) 
     
 #### Codility
 * Lesson 1 - Iterations
