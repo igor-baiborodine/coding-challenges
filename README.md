@@ -14,7 +14,8 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Built-Ins > Athlete Sort: [task](/hackerrank/python/built-ins_athlete-sort-task.pdf), [solution](/hackerrank/python/built-ins_athlete-sort-solution.py) 
   * Built-Ins > Any or All: [task](/hackerrank/python/built-ins_any-or-all-task.pdf), [solution](/hackerrank/python/built-ins_any-or-all-solution.py) 
   * Built-Ins > ginortS: [task](/hackerrank/python/built-ins_ginorts-task.pdf), [solution](/hackerrank/python/built-ins_ginorts-solution.py) 
-    
+  * Python Functionals > Map and Lambda Function: [task](/hackerrank/python/python-functionals_map-and-lambda-function-task.pdf), [solution](/hackerrank/python/python-functionals_map-and-lambda-function-solution.py) 
+      
 #### Codility
 * Lesson 1 - Iterations
   * BinaryGap: [task](/codility/lesson1/BINARY_GAP_README.md), [Java solution](/codility/lesson1/BinaryGap.java), [Python solution](/codility/lesson1/BinaryGap.py)
