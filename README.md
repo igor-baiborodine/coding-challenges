@@ -3,6 +3,8 @@ coding-challenges
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
 #### HackerRank
+* Java
+  * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
 * Python
   * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
   * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
