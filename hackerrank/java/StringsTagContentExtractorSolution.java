@@ -95,23 +95,5 @@ None
 None
 dim
 dim
-
-some
-public
-None
-
-None
-None
-None
-hello
-hello
-dim
-hello
-dim
 */
-
-    /* Testcase 3
-
-
-     */
 }
