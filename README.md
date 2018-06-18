@@ -5,7 +5,7 @@ This project contains solutions to various coding exercises, problems, algorithm
 #### HackerRank
 * Java
   * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
-  * BigNumber > Tag Content Extractor: [task](/hackerrank/java/bignumber_java-bigdecimal-task.pdf), [solution](/hackerrank/java/BigNumberJavaBigDecimalSolution.java)
+  * BigNumber > Java BigDecimal: [task](/hackerrank/java/bignumber_java-bigdecimal-task.pdf), [solution](/hackerrank/java/BigNumberJavaBigDecimalSolution.java)
 * Python
   * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
   * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
