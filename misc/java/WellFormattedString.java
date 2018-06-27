@@ -8,9 +8,8 @@ import java.util.Map;
  * Input format: a string that contains only the following characters '()[]{}'
  * Output format: true, if the input string is well formatted, false otherwise
  *
- * Examples: "()" - well formatted
- *           "())" - not well formatted
- *
+ * Examples: "()" -> true, well formatted
+ *           "())" -> false, not well formatted
  */
 public class WellFormattedString {
 
