@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @see ../data-structures_java-subarray-task.pdf
+ */
 public class DataStructuresJavaSubarray {
 
 	public static void main(String[] args) {

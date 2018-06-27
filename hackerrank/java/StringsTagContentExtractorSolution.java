@@ -2,6 +2,9 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * @see ../strings_tag-content-extractor-task.pdf
+ */
 public class StringsTagContentExtractorSolution {
     public static void main(String[] args) {
         Pattern p = Pattern.compile("<[^>]+>");

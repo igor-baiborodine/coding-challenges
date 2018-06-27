@@ -1,6 +1,9 @@
 import java.math.BigDecimal;
 import java.util.*;
 
+/**
+ * @see ../bignumber_java-bigdecimal-task.pdf
+ */
 class BigNumberJavaBigDecimalSolution {
 	public static void main(String[] args) {
 		//Input
