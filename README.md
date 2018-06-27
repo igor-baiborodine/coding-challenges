@@ -2,6 +2,11 @@ coding-challenges
 -------------------
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
+#### Misc
+* Java
+  * Strings > Common Consecutive Letters: [solution](/misc/java/CommonConsecutiveLetters.java)
+  * Strings > Well Formatted String: [solution](misc/java/WellFormattedString.java)
+  
 #### HackerRank
 * Java
   * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
