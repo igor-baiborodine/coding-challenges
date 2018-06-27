@@ -6,7 +6,7 @@
  * Examples:
  * "I.B.M.", "International Business Machines" -> 3
  * "Microsoft Inc.", "Microsoft Corporation" -> 9
- * "The Society for Creative Anachronism", "Creative Agencies Inc." - >	10
+ * "The Society for Creative Anachronism", "Creative Agencies Inc." - >	9
  * "Statcan", "Statistics Canada" -> 7
  */
 public class CommonConsecutiveLetters {
