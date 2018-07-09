@@ -1,4 +1,4 @@
-"""DataStructuresJava1DArrayPart2 for the Tape Equilibrium task.
+"""Solution for the Tape Equilibrium task.
 
 Task:   ../TAPE_EQUILIBRIUM_README.md
 Author: Igor Baiborodine

@@ -1,4 +1,4 @@
-"""DataStructuresJava1DArrayPart2 for the Permutation Missing Element task.
+"""Solution for the Permutation Missing Element task.
 
 Task:   ../PERM_MISSING_ELEM_README.md
 Author: Igor Baiborodine

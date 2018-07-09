@@ -1,4 +1,4 @@
-"""DataStructuresJava1DArrayPart2 for the FrogRiverOne task.
+"""Solution for the FrogRiverOne task.
 
 Task:   ../FROG_RIVER_ONE_README.md
 Author: Igor Baiborodine

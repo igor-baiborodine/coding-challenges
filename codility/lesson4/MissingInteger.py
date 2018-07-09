@@ -1,4 +1,4 @@
-"""DataStructuresJava1DArrayPart2 for the MissingInteger task.
+"""Solution for the MissingInteger task.
 
 Task:   ../MISSING_INTEGER_README.md
 Author: Igor Baiborodine

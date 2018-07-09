@@ -2,15 +2,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayDeque;
-import java.util.Arrays;
-import java.util.Deque;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 import java.util.stream.Stream;
 
-public class DataStructuresJava1DArrayPart2Iterative {
+public class DataStructuresJava1DArrayPart2Recursive {
+
+    private static boolean canWinResult;
 
     public static void main(String[] args) {
         int leap;
@@ -51,6 +48,7 @@ public class DataStructuresJava1DArrayPart2Iterative {
                     if (!actual.equals(expected[i])) {
                         throw new RuntimeException("Actual vs. expected mismatch");
                     }
+                    canWinResult = false;
                 }
             } catch (IOException e) {
                 e.printStackTrace();
@@ -61,34 +59,28 @@ public class DataStructuresJava1DArrayPart2Iterative {
     public static boolean canWin(int leap, int[] game) {
 
         boolean[] visited = new boolean[game.length];
-        Deque<Integer> st = new ArrayDeque<>();
-        st.push(0); // start index (root node)
+        int startIndex = 0;
+        canWinRecursive(leap, game, visited, startIndex);
+        return canWinResult;
+    }
 
-        while (!st.isEmpty()) {
-            int currentIndex = st.pop();
+    public static void canWinRecursive(int leap, int[] game, boolean[] visited, int currentIndex) {
+        if (canWinResult) {
+            return;
+        }
+        visited[currentIndex] = true;
+        Map<Integer, Integer> nextMoveToIndexMap = getAvailableMoveIndexes(currentIndex, leap, game);
 
-            if (!visited[currentIndex]) {
-                visited[currentIndex] = true;
-                Deque<Integer> auxStack = new ArrayDeque<>();
-                Map<Integer, Integer> nextMoveToIndexMap = getAvailableMoveIndexes(currentIndex, leap, game);
-
-                if (canWalkOrJumpOff(leap, game.length, nextMoveToIndexMap)) {
-                    return true;
-                }
-                for (int i : nextMoveToIndexMap.values()) {
-                    if (!visited[i]){
-                        auxStack.push(i);
-                    }
-                }
-
-                while (!auxStack.isEmpty()) {
-                    st.push(auxStack.pop());
+        if (canWalkOrJumpOff(leap, game.length, nextMoveToIndexMap)) {
+            canWinResult = true;
+        } else {
+            for (int i : nextMoveToIndexMap.values()) {
+                if (!visited[i]) {
+                    canWinRecursive(leap, game, visited, i);
                 }
             }
         }
-        return false;
     }
-
     private static Map<Integer, Integer> getAvailableMoveIndexes(int currentIndex, int leap, int[] game) {
         Map<Integer, Integer> result = new LinkedHashMap<>();
 
