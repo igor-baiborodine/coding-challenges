@@ -12,7 +12,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
   * BigNumber > Java BigDecimal: [task](/hackerrank/java/bignumber_java-bigdecimal-task.pdf), [solution](/hackerrank/java/BigNumberJavaBigDecimalSolution.java)
   * Data Structures > Java Subarray: [task](/hackerrank/java/data-structures_java-subarray-task.pdf), [solution](/hackerrank/java/DataStructuresJavaSubarray.java)
-  * Data Structures > Java 1D Array (Part 2): [task](/hackerrank/java/data-structures_java-1d-array-part2_task.pdf), [iterative solution](/hackerrank/java/DataStructuresJava1DArrayPart2Iterative.java)
+  * Data Structures > Java 1D Array (Part 2): [task](/hackerrank/java/data-structures_java-1d-array-part2_task.pdf), [iterative solution](/hackerrank/java/DataStructuresJava1DArrayPart2Iterative.java), [recursive solution](/hackerrank/java/DataStructuresJava1DArrayPart2Recursive.java)
 * Python
   * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
   * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
