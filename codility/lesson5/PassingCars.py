@@ -1,4 +1,4 @@
-"""Solution for the PassingCars task.
+"""DataStructuresJava1DArrayPart2 for the PassingCars task.
 
 Task:   ../PASSING_CARS_README.md
 Author: Igor Baiborodine

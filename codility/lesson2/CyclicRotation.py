@@ -1,4 +1,4 @@
-"""Solution for the Cyclic Rotation task.
+"""DataStructuresJava1DArrayPart2 for the Cyclic Rotation task.
 
 Task:   ../CYCLIC_ROTATION_README.md
 Author: Igor Baiborodine

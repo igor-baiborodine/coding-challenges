@@ -1,4 +1,4 @@
-"""Solution for the Odd Occurences in Array task.
+"""DataStructuresJava1DArrayPart2 for the Odd Occurences in Array task.
 
 Task:   ../ODD_OCCURRENCES_IN_ARRAY_README.md
 Author: Igor Baiborodine

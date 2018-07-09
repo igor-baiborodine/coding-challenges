@@ -1,4 +1,4 @@
-"""Solution for the PermCheck task.
+"""DataStructuresJava1DArrayPart2 for the PermCheck task.
 
 Task:   ../PERM_CHECK_README.md
 Author: Igor Baiborodine

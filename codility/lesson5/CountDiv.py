@@ -1,4 +1,4 @@
-"""Solution for the CountDiv task.
+"""DataStructuresJava1DArrayPart2 for the CountDiv task.
 
 Task:   ../COUNT_DIV_README.md
 Author: Igor Baiborodine

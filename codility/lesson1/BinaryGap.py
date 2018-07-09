@@ -1,4 +1,4 @@
-"""Solution for the Binary Gap task.
+"""DataStructuresJava1DArrayPart2 for the Binary Gap task.
 
 Task:   ../BINARY_GAP_README.md
 Author: Igor Baiborodine

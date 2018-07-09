@@ -1,4 +1,4 @@
-"""Solution for the MaxCounters task.
+"""DataStructuresJava1DArrayPart2 for the MaxCounters task.
 
 Task:   ../MAX_COUNTERS_README.md
 Author: Igor Baiborodine
