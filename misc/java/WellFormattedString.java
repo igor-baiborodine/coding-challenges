@@ -51,7 +51,8 @@ public class WellFormattedString {
 				}
 			}
 		}
-		return !isAnyClosingCountGreaterThanZero(closingCharToCountMap);
+		return !isAnyClosingCountGreaterThanZero(closingCharToCountMap)
+			&& !isAnyClosingCountNegative(closingCharToCountMap);
 	}
 
 	private static boolean isClosingChar(String s) {
