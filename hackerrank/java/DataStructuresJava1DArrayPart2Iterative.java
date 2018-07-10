@@ -10,6 +10,10 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
+/**
+ * This implementation is based on the Depth First Search algorithm:
+ * https://algocoding.wordpress.com/2014/08/25/depth-first-search-java-and-python-implementation/
+ */
 public class DataStructuresJava1DArrayPart2Iterative {
 
     public static void main(String[] args) {
