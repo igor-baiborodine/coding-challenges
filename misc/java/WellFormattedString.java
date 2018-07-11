@@ -10,6 +10,8 @@ import java.util.Map;
  *
  * Examples: "()" -> true, well formatted
  *           "())" -> false, not well formatted
+ *
+ * Alternative solution: https://github.com/igor-baiborodine/coding-challenges/blob/master/hackerrank/java/DataStructuresJavaStack.java
  */
 public class WellFormattedString {
 
