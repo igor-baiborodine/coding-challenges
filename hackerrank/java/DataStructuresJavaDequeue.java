@@ -9,8 +9,9 @@ public class DataStructuresJavaDequeue {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int m = in.nextInt();
-        Deque<Integer> deque = new ArrayDeque<>(m);
-        Set<Integer> uniqueNums = new HashSet<>(m);
+        int initialCapacity = (int) Math.ceil(m/.75);
+        Deque<Integer> deque = new ArrayDeque<>(initialCapacity);
+        Set<Integer> uniqueNums = new HashSet<>(initialCapacity);
         int maxUniqueNumCount = 0;
 
         for (int i = 0; i < n; i++) {
