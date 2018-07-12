@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
+ * @see ../data-structures_java-stack_task.pdf
+ *
  * Alternative solution: https://github.com/igor-baiborodine/coding-challenges/blob/master/misc/java/WellFormattedString.java
  */
 public class DataStructuresJavaStack {

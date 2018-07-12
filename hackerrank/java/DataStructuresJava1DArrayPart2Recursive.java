@@ -6,6 +6,8 @@ import java.util.*;
 import java.util.stream.Stream;
 
 /**
+ * @see ../data-structures_java-1d-array-part2_task.pdf
+ *
  * This implementation is based on the Depth First Search algorithm:
  * https://algocoding.wordpress.com/2014/08/25/depth-first-search-java-and-python-implementation/
  */
