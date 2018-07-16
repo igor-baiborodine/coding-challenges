@@ -6,7 +6,7 @@ import java.util.BitSet;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-public class Solution {
+public class DataStructuresJavaBitSet {
 
     private static BitSet[] b;
 
