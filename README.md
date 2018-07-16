@@ -15,6 +15,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Data Structures > Java 1D Array (Part 2): [task](/hackerrank/java/data-structures_java-1d-array-part2_task.pdf), [iterative solution](/hackerrank/java/DataStructuresJava1DArrayPart2Iterative.java), [recursive solution](/hackerrank/java/DataStructuresJava1DArrayPart2Recursive.java)
   * Data Structures > Java Stack: [task](/hackerrank/java/data-structures_java-stack_task.pdf), [solution](/hackerrank/java/DataStructuresJavaStack.java)
   * Data Structures > Java Dequeue: [task](/hackerrank/java/data-structures_java-dequeue_task.pdf), [solution](/hackerrank/java/DataStructuresJavaDequeue.java)
+  * Data Structures > Java BitSet: [task](/hackerrank/java/data-structures_java-bitset_task.pdf), [solution](/hackerrank/java/DataStructuresJavaBitSet.java)
 * Python
   * Itertools > Compress the String!: [task](/hackerrank/python/itertools_compress-the-string-task.pdf), [solution](/hackerrank/python/itertools_compress-the-string-solution.py)
   * Itertools > Iterables and Iterators: [task](/hackerrank/python/itertools_iterables-and-iterators-task.pdf), [solution](/hackerrank/python/itertools_iterables-and-iterators-solution.py) 
