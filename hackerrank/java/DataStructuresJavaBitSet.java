@@ -34,10 +34,7 @@ public class DataStructuresJavaBitSet {
                     executeOperation(operation, n1, n2);
                     String actual = b[0].cardinality() + " " + b[1].cardinality();
                     System.out.printf("%s -> %s, %s%n", line, actual, expected[k]);
-                    if (!actual.equals(expected[k])) {
-                        throw new RuntimeException("Actual vs. expected mismatch");
-                    }
-
+                    assert actual.equals(expected[k]) : "Actual vs. expected mismatch";
                 }
             } catch (IOException e) {
                 e.printStackTrace();
