@@ -2,7 +2,7 @@ coding-challenges
 -------------------
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
-#### HackerRank
+### HackerRank
 * Problem Solving
   * Data Structures > Left Rotation: [task](/hackerrank/problem-solving/data-structures-left-rotation.pdf), [solution](/hackerrank/problem-solving/data-structures-left-rotation.py)
     
@@ -28,7 +28,7 @@ This project contains solutions to various coding exercises, problems, algorithm
   * Python Functionals > Map and Lambda Function: [task](/hackerrank/python/python-functionals_map-and-lambda-function-task.pdf), [solution](/hackerrank/python/python-functionals_map-and-lambda-function-solution.py) 
   * Python Functionals > Validating Email Addresses With a Filter: [task](/hackerrank/python/python-functionals_validating-email-addresses-with-filter-task.pdf), [solution](/hackerrank/python/python-functionals_validating-email-addresses-with-filter-solution.py) 
       
-#### Codility
+### Codility
 * Lesson 1 - Iterations
   * BinaryGap: [task](/codility/lesson1/BINARY_GAP_README.md), [Java solution](/codility/lesson1/BinaryGap.java), [Python solution](/codility/lesson1/BinaryGap.py)
 * Lesson 2 - Arrays
