@@ -2,12 +2,10 @@ coding-challenges
 -------------------
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
-#### Misc
-* Java
-  * Strings > Common Consecutive Letters: [solution](/misc/java/CommonConsecutiveLetters.java)
-  * Strings > Well Formatted String: [solution](misc/java/WellFormattedString.java)
-  
 #### HackerRank
+* Problem Solving
+  * Data Structures > Left Rotation: [task](/hackerrank/problem-solving/data-structures-left-rotation.pdf), [solution](/hackerrank/problem-solving/data-structures-left-rotation.py)
+    
 * Java
   * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
   * BigNumber > Java BigDecimal: [task](/hackerrank/java/bignumber_java-bigdecimal-task.pdf), [solution](/hackerrank/java/BigNumberJavaBigDecimalSolution.java)
@@ -50,3 +48,9 @@ This project contains solutions to various coding exercises, problems, algorithm
   * CountDiv: [task](/codility/lesson5/COUNT_DIV_README.md), [Python solution](/codility/lesson5/CountDiv.py)
   * PassingCars: [task](/codility/lesson5/PASSING_CARS_README.md), [Python solution](/codility/lesson5/PassingCars.py)
   * GenomicRangeQuery: [task](/codility/lesson5/GENOMIC_RANGE_QUERY_README.md), [Python solution](/codility/lesson5/GenomicRangeQuery.py), [Python solution 2](/codility/lesson5/GenomicRangeQuery2.py)
+
+#### Misc
+* Java
+  * Strings > Common Consecutive Letters: [solution](/misc/java/CommonConsecutiveLetters.java)
+  * Strings > Well Formatted String: [solution](misc/java/WellFormattedString.java)
+  
