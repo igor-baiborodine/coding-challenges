@@ -5,6 +5,7 @@ This project contains solutions to various coding exercises, problems, algorithm
 ### HackerRank
 * Problem Solving
   * Data Structures > Left Rotation: [task](/hackerrank/problem-solving/data-structures-left-rotation.pdf), [solution](/hackerrank/problem-solving/data-structures-left-rotation.py)
+  * Data Structures > Reverse a Linked List: [task](/hackerrank/problem-solving/data-structures-reverse-linked-list.pdf), [solution](/hackerrank/problem-solving/data-structures-reverse-linked-list.py)
     
 * Java
   * Strings > Tag Content Extractor: [task](/hackerrank/java/strings_tag-content-extractor-task.pdf), [solution](/hackerrank/java/StringsTagContentExtractorSolution.java)
