@@ -3,6 +3,7 @@ coding-challenges
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 ### CodeWars
 * Python Katas on [repl.it](https://repl.it/@igor_baiborodin)
+* [Go Katas](/codewars/go-katas.md) on the Go Playground
 
 ### HackerRank
 * Problem Solving
