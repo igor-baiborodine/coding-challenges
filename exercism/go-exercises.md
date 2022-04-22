@@ -8,3 +8,5 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 3. [Annalyn's Infiltration](https://go.dev/play/p/-mwt-KnkflW)
 4. [Welcome To Tech Palace!](https://go.dev/play/p/je1_-yVqC7j)
 5. [Vehicle Purchase](https://go.dev/play/p/p-XH1c2BEkF)
+6. [Party Robot](https://go.dev/play/p/vmiv5oWOYoz)
+7. [Card Tricks](https://go.dev/play/p/JH4Q9-j37oz)
