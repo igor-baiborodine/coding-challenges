@@ -12,3 +12,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 7. [Card Tricks](https://go.dev/play/p/OPclwQ_6ThN)
 8. [Blackjack](https://go.dev/play/p/Hnmd7X8O6rb)
 9. [Need for Speed](https://go.dev/play/p/PhrLcFS8WZV)
+10. [Animal Magic](https://go.dev/play/p/APqkapcBGUg)
