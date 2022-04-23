@@ -14,3 +14,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 9. [Need for Speed](https://go.dev/play/p/PhrLcFS8WZV)
 10. [Animal Magic](https://go.dev/play/p/APqkapcBGUg)
 11. [Bird Watcher](https://go.dev/play/p/YBN9xARd3PH)
+12. [Lasagna Master](https://go.dev/play/p/GrOXezkAETx)
