@@ -10,3 +10,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 5. [Vehicle Purchase](https://go.dev/play/p/p-XH1c2BEkF)
 6. [Party Robot](https://go.dev/play/p/vmiv5oWOYoz)
 7. [Card Tricks](https://go.dev/play/p/OPclwQ_6ThN)
+8. [Blackjack](https://go.dev/play/p/Hnmd7X8O6rb)
