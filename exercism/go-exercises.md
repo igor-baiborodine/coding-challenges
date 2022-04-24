@@ -19,3 +19,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 14. [Booking up for Beauty](https://go.dev/play/p/wKPOyb56g7G)
 15. [Gross Store](https://go.dev/play/p/hHsyNTxCHP-)
 16. [Chessboard](https://go.dev/play/p/xJnjF2Zu6lt)
+17. [Election Day](https://go.dev/play/p/V9Z5eql5xtT)
