@@ -18,3 +18,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 13. [Interest is Interesting](https://go.dev/play/p/OfHGnIUxzj9)
 14. [Booking up for Beauty](https://go.dev/play/p/wKPOyb56g7G)
 15. [Gross Store](https://go.dev/play/p/hHsyNTxCHP-)
+16. [Chessboard](https://go.dev/play/p/xJnjF2Zu6lt)
