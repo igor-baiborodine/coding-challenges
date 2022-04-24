@@ -16,3 +16,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 11. [Bird Watcher](https://go.dev/play/p/YBN9xARd3PH)
 12. [Lasagna Master](https://go.dev/play/p/GrOXezkAETx)
 13. [Interest is Interesting](https://go.dev/play/p/OfHGnIUxzj9)
+14. [Booking up for Beauty](https://go.dev/play/p/wKPOyb56g7G)
