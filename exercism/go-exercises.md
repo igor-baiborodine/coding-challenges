@@ -21,3 +21,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 16. [Chessboard](https://go.dev/play/p/xJnjF2Zu6lt)
 17. [Election Day](https://go.dev/play/p/V9Z5eql5xtT)
 18. [Elon's Toys](https://go.dev/play/p/yRECdRQWIG1)
+19. [Logs, Logs, Logs!](https://go.dev/play/p/u_athmiBNNR)
