@@ -23,3 +23,4 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 18. [Elon's Toys](https://go.dev/play/p/yRECdRQWIG1)
 19. [Logs, Logs, Logs!](https://go.dev/play/p/u_athmiBNNR)
 20. [The Farm](https://go.dev/play/p/Ku-PdAe6tY8)
+21. [Parsing Log Files](https://go.dev/play/p/CbdFBjPPlJY)
