@@ -24,3 +24,5 @@ Exercises related to the [Go track syllabus](https://exercism.org/tracks/go/conc
 19. [Logs, Logs, Logs!](https://go.dev/play/p/u_athmiBNNR)
 20. [The Farm](https://go.dev/play/p/Ku-PdAe6tY8)
 21. [Parsing Log Files](https://go.dev/play/p/CbdFBjPPlJY)
+22. [Census](https://go.dev/play/p/jwj9ydj6qzR)
+23. [Sorting Room](https://go.dev/play/p/T_K0I6oqxeV) 
