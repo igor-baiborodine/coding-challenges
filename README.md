@@ -2,6 +2,8 @@ coding-challenges
 -------------------
 This project contains solutions to various coding exercises, problems, algorithms, puzzles etc.
 
+### [Elements of Programming Interviews in Go](https://github.com/igor-baiborodine/epi-go)
+
 ### Exercism
 * [Go Exercises](/exercism/go-exercises.md) on the Go Playground
 
